@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cf90df2261829a24a9633e0d602a16f1, type: 3}
+  m_Name: 3
+  m_EditorClassIdentifier: 
+  Rate: 101.4
+  FileRoute: A3
+  startRadio: 5
+  endRadio: 28
+  playerWord: "\u5DE8\u5927\u5947\u602A\u56FE\u6848\u2026\u2026\u8BF4\u4E0D\u5B9A\u548C\u9AD8\u7EF4\u4E16\u754C\u6709\u5173\u2026\u2026"
+  SectionPart:
+  - speaker: "\u64AD\u62A5\u5458"
+    content: "\u300A\u5947\u95FB\u5F02\u4E8B\u300B\uFF0C\u4E3A\u60A8\u62A5\u9053\u5404\u5904\u5404\u5730\u7684\u771F\u5B9E\u4E8B\u4EF6\u3002\u9EA6\u7530\u4E00\u591C\u4E4B\u95F4\u60CA\u73B0\u5DE8\u5927\u5947\u602A\u56FE\u6848\uFF0C\u76EE\u51FB\u8005\u58F0\u79F0\u770B\u5230\u540E\u7CBE\u795E\u75B2\u60EB\u4E0D\u582A\uFF0C\u8FD9\u662F\u6076\u4F5C\u5267\u8FD8\u662F\u5916\u661F\u4EBA\u7684\u9192\u76EE\u7559\u8A00\uFF1F"
